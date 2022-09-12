@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Gabbe-636
-- 👀 I’m interested in learning code, and it's a kind of a personal challenge...
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, and, a little bit of Python :) ...
-- 💞️ I’m looking to collaborate on Front-End projects, including WEB sources, and, eventually, Android Apps...
-- 📫 How to reach me? Text-me! @fool_like.you on IG...
+- <h3>😄 Oi, sou o Gabriel!</h3>
+<br>
+<br>
+<p>🔰 - Todos começam de algum lugar, eu estou reescrevendo a minha história!</p>
+<p>📚 - Estou estudando HTML5, CSS3, Javascript, React e Python!</p>
+<p>👨‍💻 - Utilizo Visual Code Studio e Pycharm! (café também!)</p>
+<p>💼 - Trabalho com Gestão Logística, mas, me apaixonei por Programação!</p>
+
 
 <!---
 Gabbe-636/Gabbe-636 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
